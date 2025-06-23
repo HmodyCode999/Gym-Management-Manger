@@ -89,7 +89,7 @@ python --version
 ### Quick Start
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/HmodyCode999/Gym-Management-Manger.git
+   git clone https://github.com/HmodyCode999/Gym-Membership-Management.git
     cd Gym-Management-Manger
    ```
 
