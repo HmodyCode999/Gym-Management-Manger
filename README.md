@@ -89,13 +89,13 @@ python --version
 ### Quick Start
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/HmodyCode999/gym-management-system.git
-   cd gym-management-system
+   git clone https://github.com/HmodyCode999/Gym-Management-Manger.git
+    cd Gym-Management-Manger
    ```
 
 2. **Run the application:**
    ```bash
-   python gym_management.py
+   python GMM.py
    ```
 
 3. **First-time setup:**
